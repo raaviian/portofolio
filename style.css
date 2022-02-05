@@ -1,0 +1,19 @@
+.jumbotron{
+    padding: 10rem 1rem;
+    background-color: black;
+}
+.navbar{
+    padding: 0,5rem 1rem;
+    background-color:rgb(0, 0, 0);
+}
+.about{
+    padding: 10rem 1rem;
+    background-color: rgb(87, 87, 87);
+}
+.contact{
+    padding: 8rem 1rem;
+    background-color: black;
+}
+.project{
+    padding: 8rem 1rem;
+}
